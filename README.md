@@ -9,8 +9,8 @@
 ---
 
 ### 📊 Моя статистика GitHub
-![Stats](https://github-readme-stats.vercel.app)
-![Languages](https://github-readme-stats.vercel.app)
+![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=vbystrov03)
+![Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=vbystrov03)
 
 ---
 
