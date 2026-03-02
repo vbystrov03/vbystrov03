@@ -5,13 +5,7 @@
 ---
 
 ### 🛠 Стек технологий
-![Linux](https://img.shields.io)
-![Kubernetes](https://img.shields.io)
-![Docker](https://img.shields.io)
-![GitLab](https://img.shields.io)
-![Ansible](https://img.shields.io)
-![Python](https://img.shields.io)
-
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,k8s,ansible,python,prometheus,grafana,postgresql,gitlab,argocd/)](https://skillicons.dev)
 ---
 
 ### 📊 Моя статистика GitHub
