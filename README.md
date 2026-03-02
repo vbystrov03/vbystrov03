@@ -1,16 +1,25 @@
-## Hi there 👋
+# Привет!👋
 
-<!--
-**vbystrov03/vbystrov03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### DevOps Engineer
+Занимаюсь обеспечением стабильности и автоматизацией развертывания крупной ERP-системы.
+---
 
-Here are some ideas to get you started:
+### 🛠 Стек технологий
+![Linux](https://img.shields.io)
+![Kubernetes](https://img.shields.io)
+![Docker](https://img.shields.io)
+![GitLab](https://img.shields.io)
+![Ansible](https://img.shields.io)
+![Python](https://img.shields.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 Моя статистика GitHub
+![Stats](https://github-readme-stats.vercel.app)
+![Languages](https://github-readme-stats.vercel.app)
+
+---
+
+### 📫 Контакты
+- **Telegram:** [@vbystrov1](https://t.me/vbystrov1)
+- **Email:** [vladimir.bystrov20180@yandex.ru](mailto:vladimir.bystrov20180@yandex.ru)
